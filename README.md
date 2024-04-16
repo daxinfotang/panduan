@@ -1,9 +1,9 @@
 
-## Documentation
+# Documentation
 
-- [Untuk Umat](https://github.com/daxinfotang/panduan?tab=readme-ov-file#how-to-registeration)
-- [Untuk Admin](https://github.com/daxinfotang/panduan/blob/main/README.md#how-to-create-users)
-- [Untuk Umum](https://github.com/daxinfotang/panduan/blob/main/README.md#how-to-registeration-1)
+- [Untuk Umat](https://github.com/daxinfotang/panduan/edit/main/README.md#for-members-of-a-religious-community)
+- [Untuk Admin](https://github.com/daxinfotang/panduan/edit/main/README.md#for-administrator)
+- [Untuk Umum](https://github.com/daxinfotang/panduan/edit/main/README.md#for-general)
 
 ## Features
 
@@ -11,6 +11,8 @@
 - Acara Terupdate
 - Saran Pekerjaan
 - Kehadiran Terorganisir
+
+## For Members of a Religious Community
 
 ### How to registeration
 
@@ -42,6 +44,8 @@
 
 ![Coming Soon](https://via.placeholder.com/468x300?text=Coming+Soon)
 
+## For Administrator
+
 ### How to create users
 
 ![Coming Soon](https://via.placeholder.com/468x300?text=Coming+Soon)
@@ -71,6 +75,8 @@
 ![Coming Soon](https://via.placeholder.com/468x300?text=Coming+Soon)
 
 ![Coming Soon](https://via.placeholder.com/468x300?text=Coming+Soon)
+
+## For General
 
 ### How to registeration
 
