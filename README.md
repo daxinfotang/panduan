@@ -1,7 +1,7 @@
 
 ## Documentation
 
-Web daxin memiliki fitur yang paling luas dan menyeluruh [Panduan]([untukumat](https://github.com/daxinfotang/panduan)), sehingga sangat mudah untuk memulai dengan panduan yang ada.
+Web daxin memiliki fitur yang paling luas dan menyeluruh [Panduan](https://github.com/daxinfotang/panduan), sehingga sangat mudah untuk memulai dengan panduan yang ada.
 
 - [Untuk Umat](https://github.com/daxinfotang/panduan?tab=readme-ov-file#how-to-registeration)
 - [Untuk Admin](https://github.com/daxinfotang/panduan/blob/main/README.md#how-to-create-users)
