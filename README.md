@@ -1,9 +1,9 @@
 
 # Documentation
 
-- [Untuk Umat](https://github.com/daxinfotang/panduan/edit/main/README.md#for-members-of-a-religious-community)
-- [Untuk Admin](https://github.com/daxinfotang/panduan/edit/main/README.md#for-administrator)
-- [Untuk Umum](https://github.com/daxinfotang/panduan/edit/main/README.md#for-general)
+- [Untuk Umat](https://github.com/daxinfotang/panduan?tab=readme-ov-file#for-members-of-a-religious-community)
+- [Untuk Admin](https://github.com/daxinfotang/panduan?tab=readme-ov-file#for-administrator)
+- [Untuk Umum](https://github.com/daxinfotang/panduan?tab=readme-ov-file#for-general)
 
 ## Features
 
